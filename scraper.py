@@ -16,16 +16,15 @@ for product in products:
     # Get title
     header = product.find("header", {"class": "c-product-card__header"})
     header_h3 = header.find("h3", {"class": "c-product-card__title"})
-    header_h3_a = header.find("a", {"class": "GTM-productClick enlace-disimulado"})
+    header_h3_a = header_h3.find("a", {"class": "GTM-productClick enlace-disimulado"})
     title = header_h3_a.text
 
-    print(header_h3_a.text)
-
-    #< h3 class ="c-product-card__title" > < a class ="GTM-productClick enlace-disimulado" data-brand="Lenovo" data-category="Portátiles" data-id="313061" data-list="portatiles" data-loop="1" data-name='Lenovo Legion 5 15IMH05H Intel Core i7-10750H/16GB/512GB SSD/RTX2060/15.6"' data-price="1399" data-stock-web="1" href="/lenovo-legion-5-15imh05h-intel-core-i7-10750h-16gb-512gb-ssd-rtx2060-156" > Lenovo Legion 5 15IMH05H Intel Core i7-10750H / 16GB / 512GB SSD / RTX2060 / 15.6"</a></h3>
-
-
-    break
-
+    # Get price
+    div_price_1 = product.find('div', {"class": "c-product-card__prices cy-product-price"})
+    div_price_2 = div_price_1.find('div', {"class": "c-product-card__prices-actual c-product-card__prices-actual--discount cy-product-price-discount"})
+    if div_price_2:
+        span_price = div_price_2.find('span')
+        price = span_price.text
 
 
 # Crate CSV file
