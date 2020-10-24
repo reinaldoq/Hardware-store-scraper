@@ -1,5 +1,7 @@
 import requests as req
+import csv
 from bs4 import BeautifulSoup
+
 
 # Get whole HTML
 page = req.get('https://www.pccomponentes.com/portatiles')
@@ -25,9 +27,15 @@ for product in products:
     if div_price_2:
         span_price = div_price_2.find('span')
         price = span_price.text
+ product_list.append([title, price])
 
 
 # Crate CSV file
-
+with open('hardware-store-data.csv', 'w') as file:
+    writer = csv.writer(file)
+    headers = ['Product', 'Price']
+    writer.writerow(headers)
 
 # Populate CSV
+    for product in product_list:
+        writer.writerow(product_list)
