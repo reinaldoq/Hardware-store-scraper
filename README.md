@@ -6,4 +6,5 @@ Este proyecto nace como motivo de la práctica 1 de la asignatura Tipología y c
 
 # Participantes
 Reinaldo Quintero
+
 Irene Díaz
