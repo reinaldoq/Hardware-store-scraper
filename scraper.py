@@ -43,7 +43,7 @@ for product in products:
         div_opinions_span = div_rating.find('span', {'class': "c-star-rating__text cy-product-rating-result"})
         n_opinions = div_opinions_span.text
 
-product_list.append([title, price, availability, n_opinions])
+    product_list.append([title, price, availability, n_opinions])
 
 # Crate CSV file
 with open('hardware-store-data.csv', 'w') as file:
