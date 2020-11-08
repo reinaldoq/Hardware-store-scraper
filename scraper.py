@@ -70,11 +70,11 @@ for page in search:
         if title and price and availability and n_opinions:
             product_list.append([title, price, availability, n_opinions])
 
-        print('DONE ITERATION :', i)
-        ++i
-        # Sleeps for 30 sec to prevent get block
-        print('SLEEPING FOR 15 SECONDS...')
-        time.sleep(15)
+    print('DONE ITERATION :', i)
+    i += 1
+    # Sleeps for 30 sec to prevent get block
+    print('SLEEPING FOR 15 SECONDS...')
+    time.sleep(15)
 
 # Crate CSV file
 with open('hardware-store-data.csv', 'w') as file:

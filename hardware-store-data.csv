@@ -9,6 +9,7 @@ Product,Price,Availability,Number_of_opinions
 "MSI GL65 Leopard 10SFSK-280XES Intel Core i7-10750H/16GB/1TB SSD/RTX 2070 SUPER/15.6""",1599€,mañana,7 Opiniones
 "Lenovo ThinkBook 15 IIL Intel Core i3-1005G1/8GB/256GB SSD/15.6""",1599€,mañana,13 Opiniones
 "Lenovo V14 ADA AMD Ryzen 3 3250U/8GB/256GB SSD/14""",1599€,mañana,102 Opiniones
+"Lenovo IdeaPad 3 15ADA05 AMD 3020e/8GB/128GB SSD/15.6""",1599€,mañana,38 Opiniones
 "Acer Nitro 5 AN515-55-7075 Intel Core i7-10750H/16GB/512GB SSD/GTX 1650/15.6""","899,99€",mañana,80 Opiniones
 "HP Pavilion Gaming 16-A0008NS Intel Core i5-10300H/8GB/512GB SSD/GTX 1050/16.1""","899,99€",mañana,56 Opiniones
 "MSI Modern 14 B10MW-215XES Intel Core i5-10210U/16GB/512GB SSD/14""",749€,mañana,14 Opiniones
@@ -20,7 +21,6 @@ Product,Price,Availability,Number_of_opinions
 "HP 255 G7 AMD Ryzen 5 3500U/8GB/512GB SSD/15.6""",949€,mañana,48 Opiniones
 "MSI Modern 14 B10RBSW-063XES Intel Core i7-10510U/16GB/1TB SSD/MX 350/14""",1049€,mañana,48 Opiniones
 "HP 255 G7 AMD Ryzen 5 3500U/8GB/256 GB SSD/15.6""",1049€,mañana,11 Opiniones
-"Lenovo IdeaPad 5 15IIL05 Intel Core i7-1065G7/16GB/512GB SSD/15.6""",889€,mañana,4 Opiniones
 "Acer Nitro 5 AN515-55-598S Intel Core i5-10300H/8GB/256GB SSD/GTX 1650/15.6""",679€,mañana,86 Opiniones
 "Acer Chromebook Spin 311 Mediatek MT8183/4GB/32GB eMMC/11.6"" Táctil",679€,mañana,14 Opiniones
 "Acer Nitro 5 AN515-55-7075 Intel Core i7-10750H/16GB/512GB SSD/GTX 1650/15.6""","899,99€",mañana,80 Opiniones
@@ -49,6 +49,7 @@ Product,Price,Availability,Number_of_opinions
 "Asus Zenbook 14 UX431FL-AM049T Intel Core i7-10510U/16GB/512GB SSD/MX250/14""",1399€,mañana,77 Opiniones
 "Asus ROG Strix G17 G712LV-H7077 Intel Core i7-10750H/32GB/1TB SSD/RTX 2060/17.3""",1399€,mañana,14 Opiniones
 "Asus Chromebook Z1400CN-BV0305 Intel Pentium N4200/8GB/64GB eMMC/14""",1399€,mañana,8 Opiniones
+"Asus TUF Gaming FX505DT-BQ624 AMD Ryzen 5 3550H/8GB/512GB SSD/GTX 1650/15.6""",1399€,mañana,8 Opiniones
 "Asus TUF Gaming A15 FA506IV-HN337 AMD Ryzen 7 4800H/16GB/1TB SSD/RTX 2060/15.6""",1299€,mañana,37 Opiniones
 "Asus VivoBook 14 S433FL-EB180T Intel Core i7-10510U/16GB/512GB SSD/MX 250/14""",999€,mañana,8 Opiniones
 "Asus Zenbook 14 UX431FA-AM128 Intel Core i7-10510U/16GB/512GB SSD/14""",999€,mañana,66 Opiniones
@@ -63,7 +64,6 @@ Product,Price,Availability,Number_of_opinions
 "Asus VivoBook X512JA-BR700 Intel Core i5-1035G1/16GB/1TB/15.6""",1299€,mañana,52 Opiniones
 "Asus Tuf Gaming A15 FA506IU-HN278 AMD Ryzen 7 4800H APU/16GB/1TB SSD/GTX 1660Ti/15.6""","1099,99€",mañana,5 Opiniones
 "Asus Rog Zephyrus G15 GA502DU-AL092 AMD Ryzen 7 3750H/16GB/1TB SSD/GTX1660Ti/15.6""",1199€,mañana,57 Opiniones
-"Asus Zenbook 14 UX425EA-HM165T Intel Core i7-1165G7/16GB/512GB SSD/14""",1199€,mañana,57 Opiniones
 "Dynabook Portégé X30L-G-11L Intel Core i5-10210U/8GB/512GB SSD/13.3""",1149€,mañana,2 Opiniones
 "Dynabook Satellite Pro C50-E-10D Intel Core i3-8130U/8GB/256GB SSD/15.6""",1149€,el martes 10 de noviembre,2 Opiniones
 "Dynabook Tecra A40-E-1CF Intel Core i5-8250U/8GB/256GB SSD/14""",1149€,mañana,2 Opiniones
@@ -78,3 +78,62 @@ Product,Price,Availability,Number_of_opinions
 "Dynabook Satellite Pro L50-G-14H Intel Core i7-10710U/16GB/1TB+512GB SSD/MX250/15.6""",1799€,el martes 10 de noviembre,7 Opiniones
 "Dynabook Tecra X50-F-14R Intel Core i5-8265U/8GB/512GB SSD/15.6""",1799€,el martes 10 de noviembre,7 Opiniones
 "Dynabook Portégé A30-E-1C5 Intel Core i7-8550U/16GB/512GB SSD/13.3"" Reacondicionado",1799€,mañana,7 Opiniones
+"LG 15U70N Intel Core i7-10510U/16GB/512GB SSD/GTX1050/15.6""",1299€,mañana,2 Opiniones
+"LG Gram 15Z90N Intel Core i7-1065G7/16GB/512GB SSD/15.6""",1299€,el martes 10 de noviembre,6 Opiniones
+"LG 17U70N Intel Core i7-10510U/16GB/512GB SSD/GTX1650/17.3""",1599€,mañana,4 Opiniones
+"LG Gram 14Z90N Intel Core i5-1035G7/8GB/256GB SSD/14""",1049€,mañana,3 Opiniones
+"LG Gram 14Z90N Intel Core i7-1065G7/16GB/512GB SSD/14""",1049€,el martes 10 de noviembre,3 Opiniones
+"LG Gram 17Z90N Intel Core i7-1065G7/16GB/512GB SSD/17""",1599€,mañana,18 Opiniones
+"LG Gram 14Z90N Intel Core i5-1035G7/8GB/512GB SSD/14""",1599€,mañana,3 Opiniones
+"LG Gram 14T90N Intel Core i7-10510U/16GB/512GB SSD/14"" Táctil",1599€,mañana,1 Opinión
+"LG Gram 14Z90N Intel Core i5-1035G7/16GB/512GB SSD+256GB SSD/14""",1599€,mañana,1 Opinión
+"LG Gram 15Z90N-V Intel Core i5-1035G7/8GB/256GB SSD/15.6""",1049€,mañana,3 Opiniones
+"LG Gram 14Z90N Intel Core i5-1035G7/8GB/512GB SSD/14"" Reacondicionado",1049€,mañana,1 Opinión
+"LG Gram 14Z90N Intel Core i5-1035G7/8GB/256 GB SSD/14""",1049€,mañana,1 Opinión
+"LG Gram 14Z990-V Intel Core i7-8565U/8GB/256GB SSD/14""",1049€,entre el jueves 12 y el lunes 16 de noviembre,8 Opiniones
+"LG Gram 15Z90N Intel Core i7-1065G7/16GB/256GB SSD/15.6""",1049€,entre el jueves 12 y el lunes 16 de noviembre,1 Opinión
+"LG 17U70N Intel Core i7-10510U/16GB/512GB SSD/GTX1650/17.3"" Reacondicionado",1049€,mañana,3 Opiniones
+"LG Gram 15Z90N-V.AR54B Intel Core i5-1035G7/8GB/256GB SSD/15.6"" Reacondicionado",1049€,mañana,2 Opiniones
+"Acer Nitro 5 AN515-55-598S Intel Core i5-10300H/8GB/256GB SSD/GTX 1650/15.6""",679€,mañana,86 Opiniones
+"HP Pavilion Gaming 16-A0023NS Intel Core i5-10300H/16GB/512GB SSD/GTX 1050/16.1""",679€,mañana,67 Opiniones
+"HP Pavilion Gaming 16-A0010NS Intel Core i7-10750H/16GB/512GB SSD/GTX 1650Ti/16.1""",949€,mañana,77 Opiniones
+"Asus TUF Gaming FX505DT-BQ236 AMD Ryzen 5 3550H/16GB/512GB SSD/GTX 1650/15.6""",949€,mañana,144 Opiniones
+"MSI GL65 Leopard 10SFSK-280XES Intel Core i7-10750H/16GB/1TB SSD/RTX 2070 SUPER/15.6""",1599€,mañana,7 Opiniones
+"Acer Nitro 5 AN515-55-7075 Intel Core i7-10750H/16GB/512GB SSD/GTX 1650/15.6""","899,99€",mañana,80 Opiniones
+"HP Pavilion Gaming 16-A0008NS Intel Core i5-10300H/8GB/512GB SSD/GTX 1050/16.1""","899,99€",mañana,56 Opiniones
+"MSI GL75 Leopard 10SFK-060XES Intel Core i7-10750H/16GB/1TB SSD/RTX 2070/17.3""",1499€,mañana,116 Opiniones
+"MSI GF63 Thin 10SCXR-405XES Intel Core i7-10750H/16GB/512GB SSD/GTX 1650/15.6""",949€,mañana,296 Opiniones
+"Asus Tuf Gaming A15 FA506II-BQ029 AMD Ryzen 7 4800H/16GB/1TB SSD/GTX 1650Ti/15.6""",949€,mañana,10 Opiniones
+"Asus TUF Gaming F15 FX506LH-BQ030 Intel Core i7-10750H/16GB/1TB SSD/GTX1650/15.6""",949€,mañana,37 Opiniones
+"MSI Modern 14 B10RBSW-063XES Intel Core i7-10510U/16GB/1TB SSD/MX 350/14""",1049€,mañana,37 Opiniones
+"Acer Aspire 7 A715-75G-59MG Intel Core i5-10300H/8GB/256GB SSD/GTX1650/15.6""",699€,mañana,2 Opiniones
+"MSI GF65 Thin 10SER-884XES Intel Core i7-10750H/16GB/512GB SSD/RTX 2060/15.6""",1249€,mañana,1 Opinión
+"Gigabyte AORUS 7 KB-7ES1130SD Intel Core i7-10750H/16GB/512GB SSD/RTX2060/17.3""",1249€,mañana,2 Opiniones
+"HP Pavilion Gaming 16-A0011NS Intel Core i7-10750H/16GB/1TB SSD/GTX 1660Ti/16.1""",1249€,mañana,13 Opiniones
+"HP Pavilion Gaming 16-A0009NS Intel Core i5-10300H/8GB/512GB SSD/GTX 1650Ti/16.1""",1249€,mañana,27 Opiniones
+"MSI GL75 Leopard 10SEK-261XES Intel Core i7-10750H/16GB/1TB SSD/RTX 2060/17.3""",1349€,mañana,48 Opiniones
+"MSI Creator 17M A10SD-419XESIntel Core i7-10750H/32GB/1TB SSD/GTX 1660Ti/17.3""",1599€,mañana,9 Opiniones
+"MSI Bravo 15 A4DDR-217XES Ryzen 7 4800H/16GB/512GB SSD/RX5500M/15.6""",1599€,mañana,9 Opiniones
+"Asus ROG Strix G15 G512LW-HN038 Intel Core i7-10750H/16GB/512GB SSD/RTX 2070/15.6""",1399€,mañana,124 Opiniones
+"MSI Bravo 17 A4DDK-002XES AMD Ryzen 7 4800H/16GB/1TB SSD/RX5500M/17.3""",1399€,mañana,42 Opiniones
+"Asus ROG Strix G17 G712LV-H7077 Intel Core i7-10750H/32GB/1TB SSD/RTX 2060/17.3""",1399€,mañana,14 Opiniones
+"MSI GS75 Stealth 10SE-816XES Intel Core i7-10875H/32GB/1TB SSD/RTX 2060/17.3""",1799€,mañana,3 Opiniones
+"Lenovo IdeaPad 5 15IIL05 Intel Core i7-1065G7/16GB/512GB SSD/15.6""",889€,mañana,4 Opiniones
+"Lenovo IdeaPad 5 15IIL05 Intel Core i7-1065G7/16 GB/512GB SSD/15.6""",889€,mañana,4 Opiniones
+"Lenovo V15 ADA AMD Ryzen 5 3500U/8GB/256 GB SSD/15.6""",889€,mañana,89 Opiniones
+"Lenovo IdeaPad 3 14ADA05 AMD 3020e/4GB/128GB/14""",889€,el martes 10 de noviembre,31 Opiniones
+"Lenovo IdeaPad Flex 5 14ARE05 AMD Ryzen 3 4300U/8GB/256GB SSD/14"" Táctil",549€,mañana,31 Opiniones
+"Lenovo V15 ADA AMD 3020E/8GB/256GB SSD/15.6""",549€,entre el jueves 12 y el lunes 16 de noviembre,28 Opiniones
+"Lenovo IdeaPad Flex 5 14IIL05 Intel Core i3-1005G1/8GB/256GB SSD/14"" Táctil",549€,mañana,7 Opiniones
+"Lenovo ThinkBook 14 IIL Intel Core i3-1005G1/8GB/256GB SSD/14""",549€,mañana,7 Opiniones
+"Lenovo Legion 5 15IMH05 Intel Core i7-10750H/16GB/1TB SSD/GTX1650/15.6""",549€,mañana,6 Opiniones
+"Lenovo Legion 5 15IMH05 Intel Core i7-10750H/8GB/512GB SSD/GTX1650/15.6""",549€,mañana,7 Opiniones
+"Lenovo V15 ADA AMD Athlon 3020E/8GB/256GB SSD/15.6""",549€,el martes 10 de noviembre,2 Opiniones
+"Lenovo IdeaPad Flex 5 14IIL05 Intel Core i5-1035G1/8GB/256 GB SSD/14"" Táctil",549€,mañana,3 Opiniones
+"Lenovo V15 IIL Intel Core i5-1035G1/8 GB/256GB SSD/15.6""",549€,el miércoles 11 de noviembre,4 Opiniones
+"Lenovo IdeaPad Flex 5 14IIL05 Intel Core i5-1035G1/8GB/512GB SSD/14"" Táctil",799€,mañana,7 Opiniones
+"Lenovo Legion 5 15IMH05 Intel Core i7-10750H/16GB/512GB SSD/GTX 1650/15.6""","1169,01€",mañana,7 Opiniones
+"Lenovo Legion 5 15IMH05H Intel Core i7-10750H/16GB/512GB SSD/RTX2060/15.6""","1169,01€",mañana,1 Opinión
+"Lenovo V15 ADA AMD 3020E/4GB/256GB SSD/15.6""","1169,01€",mañana,13 Opiniones
+"Lenovo Ideapad 330-15ICH Intel Core i5-8300H/8GB/1TB+128GB SSD/GTX1050/15.6""","1169,01€",mañana,11 Opiniones
+"Lenovo Legion 5 15IMH05 Intel Core i7-10750H/16GB/512GB SSD/GTX1650/15.6""",1199€,mañana,1 Opinión
