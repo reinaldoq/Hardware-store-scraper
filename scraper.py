@@ -83,7 +83,7 @@ for page in search:
     time.sleep(15)
 
 # Crate CSV file
-with open('hardware-store-data.csv', 'w',newline="") as file:
+with open('hardware-store-data.csv', 'w' as file:
     print('********* CREATING CSV FILE ********')
     writer = csv.writer(file)
     headers = ['Product', 'Price', 'Availability', 'Number_of_opinions']
