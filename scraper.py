@@ -3,6 +3,13 @@ import csv
 import time
 from bs4 import BeautifulSoup
 
+# Changing user agent
+url = 'http://www.ichangtou.com/#company:data_000008.html'
+headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36'}
+
+response = req.get(url, headers=headers)
+# print(response.content)
+
 search = ['https://www.pccomponentes.com/portatiles',
           'https://www.pccomponentes.com/portatil-acer',
           'https://www.pccomponentes.com/macbook,',
