@@ -3,6 +3,12 @@ import csv
 import time
 from bs4 import BeautifulSoup
 
+# Changing user agent
+url = 'http://www.ichangtou.com/#company:data_000008.html'
+headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36'}
+response = req.get(url, headers=headers)
+# print(response.content)
+
 search = ['https://www.pccomponentes.com/portatiles',
           'https://www.pccomponentes.com/portatil-acer',
           'https://www.pccomponentes.com/macbook,',
@@ -77,7 +83,7 @@ for page in search:
     time.sleep(15)
 
 # Crate CSV file
-with open('hardware-store-data.csv', 'w') as file:
+with open('hardware-store-data.csv', 'w' as file:
     print('********* CREATING CSV FILE ********')
     writer = csv.writer(file)
     headers = ['Product', 'Price', 'Availability', 'Number_of_opinions']
